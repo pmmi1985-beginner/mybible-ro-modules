@@ -1,0 +1,207 @@
+{
+  "url": "https://raw.githubusercontent.com/pmmi1985-beginner/mybible-ro-modules/main/registry.json",
+  "file_name": "registry.json",
+  "description": "Romanian MyBible modules",
+  "modules": [
+    {
+      "download_url": "https://raw.githubusercontent.com/pmmi1985-beginner/mybible-ro-modules/main/ATSBD-ro.dictionary.SQLite3",
+      "file_name": "ATSBD-ro.dictionary.SQLite3",
+      "language_code": "ro",
+      "description": "American Tract Society Bible Dictionary — Română (traducere automată)",
+      "update_date": "2026-10-01",
+      "update_info": "initial"
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/pmmi1985-beginner/mybible-ro-modules/main/AV-ro.commentaries.SQLite3",
+      "file_name": "AV-ro.commentaries.SQLite3",
+      "language_code": "ro",
+      "description": "King James' Version, 1914 — Română (traducere automată)",
+      "update_date": "2026-10-01",
+      "update_info": "initial"
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/pmmi1985-beginner/mybible-ro-modules/main/BCWBD-ro.dictionary.SQLite3",
+      "file_name": "BCWBD-ro.dictionary.SQLite3",
+      "language_code": "ro",
+      "description": "Bonnell's Combined Word Book Dictionary — Română (traducere automată)",
+      "update_date": "2026-10-01",
+      "update_info": "initial"
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/pmmi1985-beginner/mybible-ro-modules/main/BMaps-ro.dictionary.SQLite3",
+      "file_name": "BMaps-ro.dictionary.SQLite3",
+      "language_code": "ro",
+      "description": "Bible Maps — Română (traducere automată)",
+      "update_date": "2026-10-01",
+      "update_info": "initial"
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/pmmi1985-beginner/mybible-ro-modules/main/CBC-ro.dictionary.SQLite3",
+      "file_name": "CBC-ro.dictionary.SQLite3",
+      "language_code": "ro",
+      "description": "Condensed Biblical Cyclopedia — Română (traducere automată)",
+      "update_date": "2026-10-01",
+      "update_info": "initial"
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/pmmi1985-beginner/mybible-ro-modules/main/DCG-ro.dictionary.SQLite3",
+      "file_name": "DCG-ro.dictionary.SQLite3",
+      "language_code": "ro",
+      "description": "Dictionary of Christ and the Gospels, James Hastings — Română (traducere automată)",
+      "update_date": "2026-10-01",
+      "update_info": "initial"
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/pmmi1985-beginner/mybible-ro-modules/main/Easton-ro.dictionary.SQLite3",
+      "file_name": "Easton-ro.dictionary.SQLite3",
+      "language_code": "ro",
+      "description": "Illustrated Bible Dictionary - Matthew George Easton — Română (traducere automată)",
+      "update_date": "2026-10-01",
+      "update_info": "initial"
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/pmmi1985-beginner/mybible-ro-modules/main/Edw-c-ro.commentaries.SQLite3",
+      "file_name": "Edw-c-ro.commentaries.SQLite3",
+      "language_code": "ro",
+      "description": "Jonathan Edwards' Notes On The Scriptures — Română (traducere automată)",
+      "update_date": "2026-10-01",
+      "update_info": "initial"
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/pmmi1985-beginner/mybible-ro-modules/main/EE-c-ro.commentaries.SQLite3",
+      "file_name": "EE-c-ro.commentaries.SQLite3",
+      "language_code": "ro",
+      "description": "EasyEnglish Bible Commentaries — Română (traducere automată)",
+      "update_date": "2026-10-01",
+      "update_info": "initial"
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/pmmi1985-beginner/mybible-ro-modules/main/Fairb-c-ro.commentaries.SQLite3",
+      "file_name": "Fairb-c-ro.commentaries.SQLite3",
+      "language_code": "ro",
+      "description": "The Typology of Scripture — Română (traducere automată)",
+      "update_date": "2026-10-01",
+      "update_info": "initial"
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/pmmi1985-beginner/mybible-ro-modules/main/HastChild-c-ro.commentaries.SQLite3",
+      "file_name": "HastChild-c-ro.commentaries.SQLite3",
+      "language_code": "ro",
+      "description": "The children's great texts of the Bible — Română (traducere automată)",
+      "update_date": "2026-10-01",
+      "update_info": "initial"
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/pmmi1985-beginner/mybible-ro-modules/main/HBD-ro.dictionary.SQLite3",
+      "file_name": "HBD-ro.dictionary.SQLite3",
+      "language_code": "ro",
+      "description": "Holman Bible Dictionary — Română (traducere automată)",
+      "update_date": "2026-10-01",
+      "update_info": "initial"
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/pmmi1985-beginner/mybible-ro-modules/main/HBN-ro.dictionary.SQLite3",
+      "file_name": "HBN-ro.dictionary.SQLite3",
+      "language_code": "ro",
+      "description": "Hitchcock's Bible Names, 1800 — Română (traducere automată)",
+      "update_date": "2026-10-01",
+      "update_info": "initial"
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/pmmi1985-beginner/mybible-ro-modules/main/Illustr-ro.dictionary.SQLite3",
+      "file_name": "Illustr-ro.dictionary.SQLite3",
+      "language_code": "ro",
+      "description": "Illustrations of the Bible — Română (traducere automată)",
+      "update_date": "2026-10-01",
+      "update_info": "initial"
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/pmmi1985-beginner/mybible-ro-modules/main/ISBE-ro.dictionary.SQLite3",
+      "file_name": "ISBE-ro.dictionary.SQLite3",
+      "language_code": "ro",
+      "description": "International Standard Bible Encyclopedia — Română (traducere automată)",
+      "update_date": "2026-10-01",
+      "update_info": "initial"
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/pmmi1985-beginner/mybible-ro-modules/main/JFB-c-ro.commentaries.SQLite3",
+      "file_name": "JFB-c-ro.commentaries.SQLite3",
+      "language_code": "ro",
+      "description": "Jamieson, Fausset & Brown Commentary — Română (traducere automată)",
+      "update_date": "2026-10-01",
+      "update_info": "initial"
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/pmmi1985-beginner/mybible-ro-modules/main/KJV-c-ro.commentaries.SQLite3",
+      "file_name": "KJV-c-ro.commentaries.SQLite3",
+      "language_code": "ro",
+      "description": "Marginal Notes in the King James Version, 1611 — Română (traducere automată)",
+      "update_date": "2026-10-01",
+      "update_info": "initial"
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/pmmi1985-beginner/mybible-ro-modules/main/KJVD-ro.dictionary.SQLite3",
+      "file_name": "KJVD-ro.dictionary.SQLite3",
+      "language_code": "ro",
+      "description": "King James Dictionary — Română (traducere automată)",
+      "update_date": "2026-10-01",
+      "update_info": "initial"
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/pmmi1985-beginner/mybible-ro-modules/main/Meyer-c-ro.commentaries.SQLite3",
+      "file_name": "Meyer-c-ro.commentaries.SQLite3",
+      "language_code": "ro",
+      "description": "Critical and Exegetical Commentary on the NT — Română (traducere automată)",
+      "update_date": "2026-10-01",
+      "update_info": "initial"
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/pmmi1985-beginner/mybible-ro-modules/main/MHWBC-ro.commentaries.SQLite3",
+      "file_name": "MHWBC-ro.commentaries.SQLite3",
+      "language_code": "ro",
+      "description": "Matthew Henry's Whole Bible Commentary — Română (traducere automată)",
+      "update_date": "2026-10-01",
+      "update_info": "initial"
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/pmmi1985-beginner/mybible-ro-modules/main/Morrish-ro.dictionary.SQLite3",
+      "file_name": "Morrish-ro.dictionary.SQLite3",
+      "language_code": "ro",
+      "description": "Morrish Bible dictionary — Română (traducere automată)",
+      "update_date": "2026-10-01",
+      "update_info": "initial"
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/pmmi1985-beginner/mybible-ro-modules/main/NAVE-ro.dictionary.SQLite3",
+      "file_name": "NAVE-ro.dictionary.SQLite3",
+      "language_code": "ro",
+      "description": "Nave's Topical Bible — Română (traducere automată)",
+      "update_date": "2026-10-01",
+      "update_info": "initial"
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/pmmi1985-beginner/mybible-ro-modules/main/NUBD-ro.dictionary.SQLite3",
+      "file_name": "NUBD-ro.dictionary.SQLite3",
+      "language_code": "ro",
+      "description": "The New Unger’s Bible Dictionary<BR>Merrill F. Unger <BR>R.K. HARRISON Editor <B — Română (traducere automată)",
+      "update_date": "2026-10-01",
+      "update_info": "initial"
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/pmmi1985-beginner/mybible-ro-modules/main/Perf-ro.dictionary.SQLite3",
+      "file_name": "Perf-ro.dictionary.SQLite3",
+      "language_code": "ro",
+      "description": "Perfect Illustrations for Every Topic and Occasion — Română (traducere automată)",
+      "update_date": "2026-10-01",
+      "update_info": "initial"
+    },
+    {
+      "download_url": "https://raw.githubusercontent.com/pmmi1985-beginner/mybible-ro-modules/main/Scof-ro.dictionary.SQLite3",
+      "file_name": "Scof-ro.dictionary.SQLite3",
+      "language_code": "ro",
+      "description": "Scofield Reference Index — Română (traducere automată)",
+      "update_date": "2026-10-01",
+      "update_info": "initial"
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "ATSBD-ro.dictionary.SQLite3": {
+    "sha256": "579bf07b01d0339d1d421e5f15e929e95cda0589de9c445c37eb58e1038a74d2",
+    "update_date": "2026-10-01",
+    "update_info": "initial"
+  },
+  "AV-ro.commentaries.SQLite3": {
+    "sha256": "1ac837880a201bcb75d205ba895382d265f021958b8d22c005998e6275a3dea3",
+    "update_date": "2026-10-01",
+    "update_info": "initial"
+  },
+  "BCWBD-ro.dictionary.SQLite3": {
+    "sha256": "0d83d5a6a88ffe19c9b7544ad6c4bcb7788f3658eee540f8ac99d1113dfe1745",
+    "update_date": "2026-10-01",
+    "update_info": "initial"
+  },
+  "BMaps-ro.dictionary.SQLite3": {
+    "sha256": "ecf7362dac28bb5b1a2f325bb84438758806c5d00c91ef12d737d6cfe3aa2797",
+    "update_date": "2026-10-01",
+    "update_info": "initial"
+  },
+  "CBC-ro.dictionary.SQLite3": {
+    "sha256": "92373a0d27af0c0e83cedbc0bbc2369694d22121e37814287fa92715436ba175",
+    "update_date": "2026-10-01",
+    "update_info": "initial"
+  },
+  "DCG-ro.dictionary.SQLite3": {
+    "sha256": "b9a64d215a64787ce99c9cec817b57622f97b3d48772362c2ec88dc13c1b116a",
+    "update_date": "2026-10-01",
+    "update_info": "initial"
+  },
+  "Easton-ro.dictionary.SQLite3": {
+    "sha256": "5f3bf9894be6f0fd7f8bd18106f3fc74fbb323102e461015052f0ee35634f776",
+    "update_date": "2026-10-01",
+    "update_info": "initial"
+  },
+  "Edw-c-ro.commentaries.SQLite3": {
+    "sha256": "f1a4408891cdcbb7eb1f51f3f2c1c5638894a04747eaa160e038886a867058c2",
+    "update_date": "2026-10-01",
+    "update_info": "initial"
+  },
+  "EE-c-ro.commentaries.SQLite3": {
+    "sha256": "ea72f85c40a5944bedfae034225b54de93de12613db227cb1710c36b14b75fab",
+    "update_date": "2026-10-01",
+    "update_info": "initial"
+  },
+  "Fairb-c-ro.commentaries.SQLite3": {
+    "sha256": "ce155ba207bb6e8b8c5f430952c4eee97d4b4e8004131d49acb1624f6eb4466b",
+    "update_date": "2026-10-01",
+    "update_info": "initial"
+  },
+  "HastChild-c-ro.commentaries.SQLite3": {
+    "sha256": "882f1c24bae0a1ff9bc3aa49c7671950a2cbca64c5af1576553dd91da93ad1d3",
+    "update_date": "2026-10-01",
+    "update_info": "initial"
+  },
+  "HBD-ro.dictionary.SQLite3": {
+    "sha256": "1de1b5ef684ee6831b7ab747d8e6b6d809fbf14fdace77ef76672fa5a214996f",
+    "update_date": "2026-10-01",
+    "update_info": "initial"
+  },
+  "HBN-ro.dictionary.SQLite3": {
+    "sha256": "ccb600ac04ce2282c16819e080b39b3d392c3c12425426749ec45da931c4644e",
+    "update_date": "2026-10-01",
+    "update_info": "initial"
+  },
+  "Illustr-ro.dictionary.SQLite3": {
+    "sha256": "9568ea0e894e4addfd5fb51099aef080748ae6319c59e474e2250afce138408d",
+    "update_date": "2026-10-01",
+    "update_info": "initial"
+  },
+  "ISBE-ro.dictionary.SQLite3": {
+    "sha256": "e85c0a25709d1dbe83a7480b71f13291e78bd4b53bdf659a20f6cef39e246b39",
+    "update_date": "2026-10-01",
+    "update_info": "initial"
+  },
+  "JFB-c-ro.commentaries.SQLite3": {
+    "sha256": "5866ca7d20060176eb8b7619acf0a3f774f10e2136bd9ad3245365f268b4ac11",
+    "update_date": "2026-10-01",
+    "update_info": "initial"
+  },
+  "KJV-c-ro.commentaries.SQLite3": {
+    "sha256": "7b86cc6d9b5f43ad24841997b5f4e67902557a4d9bf07a624d71dbc2ff422902",
+    "update_date": "2026-10-01",
+    "update_info": "initial"
+  },
+  "KJVD-ro.dictionary.SQLite3": {
+    "sha256": "3541fe73bc052fa67704b61b6866b7cbbc485c0b99aeb2c2a2eb5a699bcee6e3",
+    "update_date": "2026-10-01",
+    "update_info": "initial"
+  },
+  "Meyer-c-ro.commentaries.SQLite3": {
+    "sha256": "f647915f09fdc9faf091f30c627249574b62aeba47afa3f5253fb7c8dab00efd",
+    "update_date": "2026-10-01",
+    "update_info": "initial"
+  },
+  "MHWBC-ro.commentaries.SQLite3": {
+    "sha256": "2cbc98d36bc6e055f39b43d4913cbd086ce73e81131d2385548ca73d2ee614ce",
+    "update_date": "2026-10-01",
+    "update_info": "initial"
+  },
+  "Morrish-ro.dictionary.SQLite3": {
+    "sha256": "098c81b8e2e15bf3f67e38177b6ffe855de667f56ee3f2606f78f028c51c5c4b",
+    "update_date": "2026-10-01",
+    "update_info": "initial"
+  },
+  "NAVE-ro.dictionary.SQLite3": {
+    "sha256": "cc33248e36eb32d4b3311892ceed0ab8b4068e6da5095640a1c228f482923755",
+    "update_date": "2026-10-01",
+    "update_info": "initial"
+  },
+  "NUBD-ro.dictionary.SQLite3": {
+    "sha256": "a8f2b3fc9a7a3793286710611d8508fdfff02b40fa3fb178a1b4489b3ad458ce",
+    "update_date": "2026-10-01",
+    "update_info": "initial"
+  },
+  "Perf-ro.dictionary.SQLite3": {
+    "sha256": "f54632d813164ee660c4075bde15feda2a58364fc0f03d8334b0e3a2c8990692",
+    "update_date": "2026-10-01",
+    "update_info": "initial"
+  },
+  "Scof-ro.dictionary.SQLite3": {
+    "sha256": "1c3284fdc4b8e76905ad9b2dbd4554d29fcd5dcb3c6a7d84de3c574a5dca69c6",
+    "update_date": "2026-10-01",
+    "update_info": "initial"
+  }
+}
